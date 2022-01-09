@@ -1,7 +1,7 @@
 {
   "name": "hexlet",
-  "version": "1.0.0",
   "type": "module",
+  "version": "1.0.0", 
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/OleksiyShindo/hexlet-js/issues"
   },
-  "homepage": "https://github.com/OleksiyShindo/hexlet-js#readme"
+  "homepage": "https://github.com/OleksiyShindo/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
